@@ -14,4 +14,4 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 1. Cloner ce dépôt :
 
    ```bash
-   git clone https://github.com/aldokpanou/node_hr_api.git
+   git clone https://github.com/aldokpanou/hr_api.git
